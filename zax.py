@@ -26,7 +26,7 @@ BANNER = f"""
     ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝
 {Style.RESET_ALL}
 Auto Claim Script with Proxy
-{Fore.YELLOW}Telegram : https://t.me/airdropfetchofficial{Style.RESET_ALL}
+{Fore.YELLOW}Telegram : https://t.me/arfinvoldigoads{Style.RESET_ALL}
 """
 
 # Fungsi untuk mendapatkan IP publik menggunakan proxy
